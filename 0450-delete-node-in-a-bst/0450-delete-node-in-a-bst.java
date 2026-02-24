@@ -18,51 +18,33 @@ class Solution {
         if(root==null){
             return null;
         }
-        if(root.left==null && root.right==null){
-            if(root.val == key){
-                return null;
-            }
-            return root;
+
+        if(root.val>key){
+            root.left = deleteNode(root.left, key);
         }
-
-        List<Integer> li = inOrder(root, new ArrayList<>());
-
-        li.remove(Integer.valueOf(key));
-
-        int middle = li.size()/2;
-        TreeNode newRoot = new TreeNode(li.get(middle));
-        for(int i = 0; i<li.size(); i++){
-            if(li.get(i)!=li.get(middle)){
-                insertIntoBST(newRoot, li.get(i));
-            }
-        } 
-
-        return newRoot;
-    }
-
-    public List<Integer> inOrder(TreeNode r, List<Integer> l){
-        if(r==null){
-            return l;
-        }
-
-        inOrder(r.left, l);
-        l.add(r.val);
-        inOrder(r.right, l);
-        return l;
-    }
-
-    public TreeNode insertIntoBST(TreeNode r, int val){
-        if(r==null){
-            return new TreeNode(val);
-        }
-
-        if(r.val>val){
-            r.left = insertIntoBST(r.left, val);
+        else if(root.val<key){
+            root.right = deleteNode(root.right, key);
         }
         else{
-            r.right = insertIntoBST(r.right, val);
+            if(root.left == null){
+                return root.right;
+            }
+            else if(root.right == null){
+                return root.left;
+            }
+            else{
+                root.val = minValue(root.right);
+                root.right = deleteNode(root.right, root.val);
+            }
         }
 
-        return r;
+        return root;
+    }
+
+    public int minValue(TreeNode r){
+        while(r.left!=null){
+            r = r.left;
+        }
+        return r.val;
     }
 }
