@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/yash9939/LeetCode-Problems-Solved/tree/main/0001-two-sum/) | Easy |
 | [0054-spiral-matrix](https://github.com/yash9939/LeetCode-Problems-Solved/tree/main/0054-spiral-matrix/) | Medium |
 | [0204-count-primes](https://github.com/yash9939/LeetCode-Problems-Solved/tree/main/0204-count-primes/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/yash9939/LeetCode-Problems-Solved/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -35,4 +36,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/yash9939/LeetCode-Problems-Solved/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/yash9939/LeetCode-Problems-Solved/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/yash9939/LeetCode-Problems-Solved/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
