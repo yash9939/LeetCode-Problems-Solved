@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/yash9939/LeetCode-Problems-Solved/tree/main/0204-count-primes/) | Medium |
+| [0231-power-of-two](https://github.com/yash9939/LeetCode-Problems-Solved/tree/main/0231-power-of-two/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,4 +41,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/yash9939/LeetCode-Problems-Solved/tree/main/0001-two-sum/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/yash9939/LeetCode-Problems-Solved/tree/main/0231-power-of-two/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/yash9939/LeetCode-Problems-Solved/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
