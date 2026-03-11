@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/yash9939/LeetCode-Problems-Solved/tree/main/0231-power-of-two/) | Easy |
+| [0476-number-complement](https://github.com/yash9939/LeetCode-Problems-Solved/tree/main/0476-number-complement/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
