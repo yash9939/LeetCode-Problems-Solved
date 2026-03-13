@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yash9939/LeetCode-Problems-Solved/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0086-partition-list](https://github.com/yash9939/LeetCode-Problems-Solved/tree/main/0086-partition-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,4 +67,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yash9939/LeetCode-Problems-Solved/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0086-partition-list](https://github.com/yash9939/LeetCode-Problems-Solved/tree/main/0086-partition-list/) | Medium |
 <!---LeetCode Topics End-->
