@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/yash9939/LeetCode-Problems-Solved/tree/main/0002-add-two-numbers/) | Medium |
 | [0204-count-primes](https://github.com/yash9939/LeetCode-Problems-Solved/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/yash9939/LeetCode-Problems-Solved/tree/main/0231-power-of-two/) | Easy |
 ## Enumeration
@@ -49,10 +50,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/yash9939/LeetCode-Problems-Solved/tree/main/0002-add-two-numbers/) | Medium |
 | [0231-power-of-two](https://github.com/yash9939/LeetCode-Problems-Solved/tree/main/0231-power-of-two/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/yash9939/LeetCode-Problems-Solved/tree/main/0002-add-two-numbers/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/yash9939/LeetCode-Problems-Solved/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0086-partition-list](https://github.com/yash9939/LeetCode-Problems-Solved/tree/main/0086-partition-list/) | Medium |
 ## Divide and Conquer
